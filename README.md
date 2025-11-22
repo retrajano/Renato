@@ -1,0 +1,1 @@
+# Teste CodeQL via PR
